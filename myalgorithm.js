@@ -4,7 +4,7 @@ function logger(name) {
 logger("Gergo")
 
 function fullName(firstName,lastName) {
-    //console.log("firstName" + "lastName")
+    
    let names = firstName + lastName
    return names
 }
