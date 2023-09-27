@@ -9,4 +9,4 @@ function fullName(firstName,lastName) {
    return names
 }
 
-logger(fullName("Balazs", "Gergo"))
+logger(fullName("Balazs ", "Gergo"))
