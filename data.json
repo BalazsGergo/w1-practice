@@ -1,15 +1,16 @@
 [
     {
-       "name": 'Gipsz Jakab',
-       "age": 40,
+       "name": "Gipsz Jakab",
+       "age": 40
     },
     
-    { "name": 'pelda peter',
-    "age": 28,
+    { "name": "pelda peter",
+    "age": 28
     },
        
-    {"name": 'john doe',
-    "age": 6,}
+    {"name": "john doe",
+    "age": 6
+}
     
        
     ]
